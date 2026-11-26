@@ -1,0 +1,14 @@
+[project]
+name = "flomfy-flame-node-tree"
+description = "Flame-style node tree tools for the ComfyUI canvas: node kissing, link cutting, D-click delete."
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/lukaszomasta/Flomfy-Flame-Node-Tree"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Flomfy-Flame-Node-Tree"
+Icon = ""
