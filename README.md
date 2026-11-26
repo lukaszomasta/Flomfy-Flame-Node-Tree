@@ -15,6 +15,10 @@ Restart ComfyUI and reload the browser tab.
 Works with the classic (canvas) node rendering; it does nothing with Nodes 2.0 (Vue nodes).
 Built against ComfyUI 0.46.x / frontend 1.59.
 
+## Usage
+
+![Node kissing, link cutting and D-click delete](docs/usage.gif)
+
 ## Tools
 
 ### Node kissing (`web/kiss.js`)
