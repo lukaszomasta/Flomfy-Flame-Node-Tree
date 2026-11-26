@@ -12,6 +12,6 @@ Documentation = "https://github.com/lukaszomasta/Flomfy-Flame-Node-Tree#readme"
 "Bug Tracker" = "https://github.com/lukaszomasta/Flomfy-Flame-Node-Tree/issues"
 
 [tool.comfy]
-PublisherId = "lukaszomasta"
+PublisherId = "pandavfx"
 DisplayName = "Flomfy-Flame-Node-Tree"
 Icon = ""
