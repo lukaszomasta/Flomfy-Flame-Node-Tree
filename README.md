@@ -5,6 +5,15 @@ dependencies. Each tool has its own off switch under Settings > Flomfy.
 
 ## Install
 
+With ComfyUI Manager: search for **Flomfy-Flame-Node-Tree** in the Custom Nodes Manager and install it.
+Or with comfy-cli:
+
+```bash
+comfy node install flomfy-flame-node-tree
+```
+
+Or by hand:
+
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/lukaszomasta/Flomfy-Flame-Node-Tree
@@ -49,3 +58,7 @@ Hold D and click a node to delete it, as one undo step (Ctrl+Z). While D is held
 under the mouse gets a red outline. Typing "d" in a text field does nothing special.
 
 Off switch: Settings > Flomfy > D-click delete. Classic canvas rendering only.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
